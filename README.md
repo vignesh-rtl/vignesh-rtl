@@ -8,7 +8,13 @@
 
 ---
 
-# Vignesh
+# Vignesh 
+<a href="https://www.linkedin.com/in/vignesh-vlsidev/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=vignesh.d.off@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+</a>
 
 ### FPGA & VLSI Design Engineer | RTL & Digital Design | Physical Design Learner
 
