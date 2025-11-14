@@ -1,12 +1,6 @@
 <!-- 🧠 Profile Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/FPGA-Design-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RTL%20Design-Verilog%2FSystemVerilog-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RISC--V-Architecture-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open--Source--EDA-Yosys%20%7C%20Verilator%20%7C%20OpenLane-red?style=for-the-badge"/>
-</p>
 
----
+
 
 # Vignesh 
 <a href="https://www.linkedin.com/in/vignesh-vlsidev/" target="_blank">
