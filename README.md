@@ -75,5 +75,5 @@ Some parts may appear incomplete — updates are ongoing.
 ---
 
 <p align="center">
-  <b>“From basic RTL to real hardware.”</b>
+  <b>“From basic RTL to real hardware”</b>
 </p>
