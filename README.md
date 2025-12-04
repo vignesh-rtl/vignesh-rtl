@@ -10,7 +10,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
 </a>
 
-**FPGA & VLSI Design Engineer | RTL & Digital Design | Physical Design Learner**
+**FPGA Engineer | RTL Design • Vivado • PetaLinux • AI Acceleration on FPGA **
 
 ---
 
