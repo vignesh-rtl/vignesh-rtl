@@ -60,14 +60,7 @@ Currently learning **RISC-V architecture**, **DMA-DDR subsystem design**, **SDRA
 
 ---
 
-**Stats**
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vignesh-rtl&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-rtl&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
-
----
 
 ### Note  
 This repository is under active updates with **new project files**, **RTL modules**, and **open-source design work**.  
