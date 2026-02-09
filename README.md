@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/vignesh-vlsidev/
 Email: vignesh.d.off@gmail.com
 
 ---
-
+ 
 ## Projects
 
 - YOLO object detection on Zynq MPSoC
