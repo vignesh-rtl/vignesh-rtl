@@ -11,6 +11,7 @@ Email: vignesh.d.off@gmail.com
 ## Projects
 
 - YOLO object detection on Zynq MPSoC
+- Haar based face detection on FPGA
 - Real-time RTSP video streaming pipeline
 - SDI video receive and transmit system
 - SDI serializer and clocking logic design
