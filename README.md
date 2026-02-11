@@ -35,6 +35,6 @@ Email: vignesh.d.off@gmail.com
 
 ## Tools
 
-Vivado, Vitis, PetaLinux  
+Vivado, Vitis, PetaLinux , Verilator, Yosys, VitisHLS, OPENLANE 
 Verilog, SystemVerilog  
-C, Pyth
+C, Python
