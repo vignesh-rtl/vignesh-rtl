@@ -12,6 +12,7 @@ Email: vignesh.d.off@gmail.com
 
 - YOLO object detection on Zynq MPSoC
 - Haar based face detection on FPGA
+- Mosse object tracker integrated with gimbal for tracking
 - Real-time RTSP video streaming pipeline
 - SDI video receive and transmit system
 - SDI serializer and clocking logic design
