@@ -18,7 +18,7 @@ Email: vignesh.d.off@gmail.com
 - SDI serializer and clocking logic design
 - H.264/H.265 video encoding integration
 - Embedded web server for UART configuration
-- Single-cycle RISC-V RV32I processor RTL
+- Single-cycle RISC-V RV32I with RTOS capability
 - I2C, SPI, UART, APB peripheral modules
 
 ---
