@@ -10,7 +10,7 @@ Email: vignesh.d.off@gmail.com
  
 ## Projects
 
-- YOLO object detection on Zynq MPSoC
+- YOLO object detection on Zynq MPSoC / KV260
 - Haar based face detection on FPGA
 - Mosse object tracker integrated with gimbal for tracking
 - Real-time RTSP video streaming pipeline
