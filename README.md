@@ -16,7 +16,6 @@ Email: vignesh.d.off@gmail.com
 - Video Systems: RTSP, SDI Rx/Tx, serializer clocking, H.264/H.265 pipeline integration
 - Embedded Systems: PetaLinux, Vitis, board bring-up, peripheral interfacing
 - Verification and Debug: simulation, subsystem validation, hardware debugging
-
 ---
 
 ## Project Highlights
