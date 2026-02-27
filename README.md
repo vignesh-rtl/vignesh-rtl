@@ -62,4 +62,4 @@ Languages: Verilog, SystemVerilog, C, Python, TCL
 
 ---
 
-If you work on FPGA, RTL, embedded systems, or real-time video/vision products, connect with me on LinkedIn.
+If you work on FPGA, RTL or real-time video/vision products, connect with me on LinkedIn.
