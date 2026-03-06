@@ -9,7 +9,7 @@ Email: vignesh.d.off@gmail.com
 
 ---
 
-## Core Expertise
+## Core Expertise 
 
 - RTL Design: Verilog, SystemVerilog, microarchitecture, timing-aware design
 - SoC Integration: Zynq MPSoC, PS-PL integration, AXI-Lite, AXI-Stream, memory mapping
