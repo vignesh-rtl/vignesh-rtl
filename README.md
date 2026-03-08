@@ -29,6 +29,7 @@ Email: vignesh.d.off@gmail.com
 - MOSSE Object Tracker with Gimbal Control  
   Tracking pipeline integration, control interface, target stabilization
 
+
 - Real-Time Video Streaming Pipeline  
   RTSP transport, low-latency path, system-level integration
 
