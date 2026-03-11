@@ -54,7 +54,7 @@ Languages: Verilog, SystemVerilog, C, Python, TCL
 
 ---
 
-## Current Focus
+## Current Focusing 
 
 - Scalable RTL architecture and clean interface design
 - AXI-based subsystem development and integration
