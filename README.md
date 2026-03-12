@@ -39,7 +39,7 @@ Email: vignesh.d.off@gmail.com
 - H.264/H.265 Video Encoding Integration  
   Codec pipeline integration, throughput-focused implementation
 
-- Embedded Web Server for UART Configuration  
+- Embedded Web Server for UART Configuration 
   Runtime parameter configuration, device communication interface
 
 - Single-Cycle RISC-V RV32I + Peripheral Modules  
