@@ -8,7 +8,6 @@ LinkedIn: https://www.linkedin.com/in/vignesh-vlsidev/
 Email: vignesh.d.off@gmail.com
 
 ---
-
 ## Core Expertise 
 
 - RTL Design: Verilog, SystemVerilog, microarchitecture, timing-aware design
