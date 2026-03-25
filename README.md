@@ -1,56 +1,65 @@
-# rv32i-soc
+# Vignesh D
 
-This repository is intended to host the **RV32I SoC** project (a 32-bit RISC-V Integer base ISA system-on-chip implementation).
+FPGA and RTL Design Engineer focused on high-performance digital systems, SoC integration, and real-time video pipelines.
 
-At the moment, this repository is in an **initial scaffold state** with a minimal file layout. This README documents the complete current structure and serves as a starting point for future expansion.
+I build production-oriented FPGA solutions across RTL design, verification, embedded Linux, and hardware-software integration.
+
+LinkedIn: https://www.linkedin.com/in/vignesh-vlsidev/  
+Email: vignesh.d.off@gmail.com
+
+---
+## Core Expertise 
+
+- RTL Design: Verilog, SystemVerilog, microarchitecture, timing-aware design
+- SoC Integration: Zynq MPSoC, PS-PL integration, AXI-Lite, AXI-Stream, memory mapping
+- Video Systems: RTSP, SDI Rx/Tx, serializer clocking, H.264/H.265 pipeline integration
+- Embedded Systems: PetaLinux, Vitis, board bring-up, peripheral interfacing
+- Verification and Debug: simulation, subsystem validation, hardware debugging
+---
+
+## Project Highlights
+
+- YOLO Object Detection on Zynq MPSoC / KV260  
+  Edge AI deployment, acceleration integration, real-time inference pipeline
+
+- FPGA Face Detection (Haar-based)  
+  Hardware-oriented optimization, deterministic processing flow
+
+- MOSSE Object Tracker with Gimbal Control  
+  Tracking pipeline integration, control interface, target stabilization
+
+
+- Real-Time Video Streaming Pipeline  
+  RTSP transport, low-latency path, system-level integration
+
+- SDI Video Receive and Transmit System  
+  SDI Rx/Tx architecture, serializer and clock-domain handling
+
+- H.264/H.265 Video Encoding Integration  
+  Codec pipeline integration, throughput-focused implementation
+
+- Embedded Web Server for UART Configuration 
+  Runtime parameter configuration, device communication interface
+
+- Single-Cycle RISC-V RV32I + Peripheral Modules  
+  Processor design, I2C, SPI, UART, APB integration
 
 ---
 
-## Repository Structure (Current)
+## Tools and Languages
 
-```text
-rv32i-soc/
-└── README.md
-```
-
-There are currently **no source subfolders** (for example `rtl/`, `tb/`, `sim/`, or `docs/`) checked into the repository yet.
+Tools: Vivado, Vitis, PetaLinux, Verilator, Yosys, Vitis HLS, OpenLANE  
+Languages: Verilog, SystemVerilog, C, Python, TCL
 
 ---
 
-## File-by-File Inventory
+## Current Focus
 
-### `README.md`
-- Primary documentation entry point for the repository.
-- Defines the project purpose and current status.
-- Tracks the complete, up-to-date folder/file structure.
-
----
-
-## Subfolder Inventory
-
-The repository currently contains **no project subfolders**.
-
-When development begins, the following folders are commonly added in RV32I SoC projects:
-
-- `rtl/` — synthesizable Verilog/SystemVerilog source files.
-- `tb/` — testbench code.
-- `sim/` — simulation scripts and wave setup.
-- `sw/` — bare-metal software/tests for CPU validation.
-- `constraints/` — FPGA timing and pin constraints.
-- `docs/` — architecture, memory map, block diagrams.
-- `scripts/` — build/automation helpers.
+- Scalable RTL architecture and clean interface design
+- AXI-based subsystem development and integration
+- Robust verification and debugging workflows
+- Real-time vision and video acceleration on FPGA platforms
 
 ---
 
-## Repository Status
-
-- **Project state:** Bootstrapped / documentation-only.
-- **Code files present:** No.
-- **Verification assets present:** No.
-- **Build scripts present:** No.
-
----
-
-## Notes
-
-If you add new files or subfolders, update this README so it continues to provide a complete inventory of the repository.
+If you work on FPGA, RTL or real-time video/vision products, connect with me on LinkedIn.
